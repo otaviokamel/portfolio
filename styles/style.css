@@ -4,7 +4,7 @@
     --cor-primaria: #000000;
     --cor-secundaria: #F6F6F6;
     --cor-terciaria: #22D4FD;
-    --cor-hover: purple;
+    --cor-hover: rgb(156, 43, 156);
 
     /* ver sugestões de combinação (paleta) de cores em https://colorhunt.co/, https://color.adobe.com/pt/create/color-wheel ou similar */
 
@@ -106,7 +106,7 @@ body{
 }
 
 .apresentacao__links__link:hover {
-    background-color: #272727;
+    background-color: #6e6d6d;
     padding: 3%;
     cursor: pointer;
 }
